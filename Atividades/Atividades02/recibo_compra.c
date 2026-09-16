@@ -1,6 +1,6 @@
-/* Questao 3 -> O problema do scanf("%s") são os nomes compostos pois possuem a presença de 
+/* Questao 3 -> O problema do scanf("%s") são os nomes compostos, pois possuem a presença de 
 espaços e ele para de ler quando encontra um espaço vazio (" "), por exemplo "Felipe Ribeiro" 
-ele só retorna "Felipe", no programa evita esse problema utilizando fgets(), que permite ler 
+ele só retorna "Felipe", no programa evita esse problema utilizando o fgets(), que permite ler 
 strings sem parar quando encontra um espaço, então no mesmo exemplo anterior ele vai retornar
 de volta toda a string "Felipe Ribeiro". */
 
