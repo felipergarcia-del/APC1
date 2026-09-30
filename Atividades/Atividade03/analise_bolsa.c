@@ -1,7 +1,7 @@
-/* Eu montei meu codigo com algumas coisas a mais que o senhor nao requisitou, e coloquei ate mais fotos de teste para mostrar para voce.
-Em relacao a pergunta que o senhor fez, eu acabei usando o operador ternario uma vez pra colocar o sistema de aprovacao 
-
-*/
+/*Eu montei meu código com algumas coisas a mais que o senhor não requisitou e coloquei até mais fotos de teste para mostrar para você.
+Em relação à pergunta que o senhor fez, eu acabei usando o operador ternário uma vez para o sistema de aprovação, porque foi um jeito que
+eu pensei para resolver ele. Não usei em nenhum outro lugar, mesmo vendo que tem alguns lugares em que seria possível, mas eu acho mais fácil
+a leitura do código quando ela está aninhada.*/
 
 #include <stdio.h>
 
